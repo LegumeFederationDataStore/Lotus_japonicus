@@ -1,7 +1,8 @@
-72f9bbd1f8f9235c0d6d1a1d6540d388 MANIFEST.WF9B.correspondence.yml
-e71f7aff836af491411e2e8233055ecc MANIFEST.WF9B.descriptions.yml
-7df3954d75c0bcd9bdec3a1e64912834 README.WF9B.yml
-94336337fe5ca5a0ed4c912e67ec9890 lotja.MG20.gnm3.WF9B.cDNA.ffn.gz
-1f468232e87aad45423baa69d79fa67f lotja.MG20.gnm3.WF9B.cds.ffn.gz
-f5ac9dc545898ef71f69ad2f42430292 lotja.MG20.gnm3.WF9B.gene_models.gff3.gz
-f264d6176ebb50f46a362cb9ba39da39 lotja.MG20.gnm3.WF9B.protein.faa.gz
+e796560f2fe0ed79687b24ada0734b9e MANIFEST.WF9B.correspondence.yml
+b772aed8e7a242dc821e852dcaf21800 MANIFEST.WF9B.descriptions.yml
+c9e6ecbb73320aef816009565a728402 README.WF9B.yml
+c9adebc6b73dfef6df9aa0336963efa3 lotja.MG20.gnm3.ann1.WF9B.cDNA.fna.gz
+fca7a55cf3a94e79869631f1f6fef7c9 lotja.MG20.gnm3.ann1.WF9B.cds.fna.gz
+a3a21441131bc13e06cb38d4b11c729b lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3.gz
+09e7116f32c8f31401f302525ee94589 lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3.gz.tbi
+54af79c85ccec0bfe58fd9e63e0c198d lotja.MG20.gnm3.ann1.WF9B.protein.faa.gz

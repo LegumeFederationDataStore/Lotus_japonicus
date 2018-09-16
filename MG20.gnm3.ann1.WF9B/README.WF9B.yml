@@ -47,7 +47,8 @@ keywords: none
 citations: Shusei Sato, Yasukazu Nakamura, Takakazu Kaneko, Erika Asamizu, Tomohiko Kato, Mitsuteru Nakao, Shigemi Sasamoto, Akiko Watanabe, Akiko Ono, Kumiko Kawashima, Tsunakazu Fujishiro, Midori Katoh, Mitsuyo Kohara, Yoshie Kishida, Chiharu Minami, Shinobu Nakayama, Naomi Nakazaki, Yoshimi Shimizu, Sayaka Shinpo, Chika Takahashi, Tsuyuko Wada, Manabu Yamada, Nobuko Ohmido, Makoto Hayashi, Kiichi Fukui, Tomoya Baba, Tomoko Nakamichi, Hirotada Mori, Satoshi Tabata. Genome Structure of the Legume, Lotus japonicus. DNA Research 15:4 (2008). https://doi.org/10.1093/dnares/dsn008
 
 file_transformation: 
-  - added prefix "Lj to >lotja.MG20.gnm3." to IDs in all files 
+  - added prefix "Lj to >lotja.MG20.gnm3.ann1." to IDs in all files 
 
 changes: 
   - 2018-07-14 fixed key names: QPGB --> WF9B
+  - 2018-09-15 fixing of fasta header prefixing, renaming of ffn to fna, other places where key names incorrect
