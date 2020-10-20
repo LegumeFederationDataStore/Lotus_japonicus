@@ -52,3 +52,4 @@ file_transformation:
 changes: 
   - 2018-07-14 fixed key names: QPGB --> WF9B
   - 2018-09-15 fixing of fasta header prefixing, renaming of ffn to fna, other places where key names incorrect
+  - 2020-10-19 added primaryTranscript files, using longest_isoform on proteins, then choosing the same splice variant for cds and transcript (extracting by sequence id using samtools faidx); renamed cDNA to transcript to be consistent with naming convention used elsewhere. added gene family assignment files

@@ -1,5 +1,8 @@
 #name in this repository
-lotja.MG20.gnm3.ann1.WF9B.cDNA.fna.gz			
+lotja.MG20.gnm3.ann1.WF9B.transcript.fna.gz			
+lotja.MG20.gnm3.ann1.WF9B.transcript_primaryTranscript.fna.gz			
 lotja.MG20.gnm3.ann1.WF9B.cds.fna.gz				
+lotja.MG20.gnm3.ann1.WF9B.cds_primaryTranscript.fna.gz				
 lotja.MG20.gnm3.ann1.WF9B.gene_models_main.gff3.gz	
 lotja.MG20.gnm3.ann1.WF9B.protein.faa.gz	
+lotja.MG20.gnm3.ann1.WF9B.protein_primaryTranscript.faa.gz	
